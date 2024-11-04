@@ -1,0 +1,798 @@
+[
+    {
+        "id": "8686",
+        "name": "Thịt, cá, trứng, hải sản"
+    },
+    {
+        "id": "8781",
+        "name": "Thịt heo"
+    },
+    {
+        "id": "8139",
+        "name": "Thịt bò"
+    },
+    {
+        "id": "8790",
+        "name": "Thịt gà, vịt, chim"
+    },
+    {
+        "id": "12718",
+        "name": "Thịt sơ chế"
+    },
+    {
+        "id": "8782",
+        "name": "Cá, hải sản"
+    },
+    {
+        "id": "8783",
+        "name": "Trứng gà, vịt, cút"
+    },
+    {
+        "id": "10298",
+        "name": "Rau, củ, nấm, trái cây"
+    },
+    {
+        "id": "8788",
+        "name": "Trái cây"
+    },
+    {
+        "id": "8820",
+        "name": "Rau lá"
+    },
+    {
+        "id": "8785",
+        "name": "Củ, quả"
+    },
+    {
+        "id": "8779",
+        "name": "Nấm các loại"
+    },
+    {
+        "id": "12439",
+        "name": "Rau, củ làm sẵn"
+    },
+    {
+        "id": "7172",
+        "name": "Rau củ đông lạnh"
+    },
+    {
+        "id": "7148",
+        "name": "Dầu ăn, nước chấm, gia vị"
+    },
+    {
+        "id": "2286",
+        "name": "Dầu ăn"
+    },
+    {
+        "id": "2289",
+        "name": "Nước mắm"
+    },
+    {
+        "id": "2683",
+        "name": "Nước tương"
+    },
+    {
+        "id": "2804",
+        "name": "Đường"
+    },
+    {
+        "id": "2806",
+        "name": "Hạt nêm, bột ngọt, bột canh"
+    },
+    {
+        "id": "2803",
+        "name": "Muối"
+    },
+    {
+        "id": "2567",
+        "name": "Tương ớt - đen, mayonnaise"
+    },
+    {
+        "id": "3465",
+        "name": "Dầu hào, giấm, bơ"
+    },
+    {
+        "id": "8271",
+        "name": "Gia vị nêm sẵn"
+    },
+    {
+        "id": "7779",
+        "name": "Nước chấm, mắm"
+    },
+    {
+        "id": "2809",
+        "name": "Tiêu, sa tế, ớt bột"
+    },
+    {
+        "id": "8275",
+        "name": "Bột nghệ, tỏi, hồi, quế,..."
+    },
+    {
+        "id": "7147",
+        "name": "Mì, miến, cháo, phở"
+    },
+    {
+        "id": "2565",
+        "name": "Mì ăn liền"
+    },
+    {
+        "id": "2965",
+        "name": "Hủ tiếu, miến"
+    },
+    {
+        "id": "2566",
+        "name": "Phở, bún ăn liền"
+    },
+    {
+        "id": "2564",
+        "name": "Cháo gói, cháo tươi"
+    },
+    {
+        "id": "8163",
+        "name": "Bún các loại"
+    },
+    {
+        "id": "8159",
+        "name": "Nui các loại"
+    },
+    {
+        "id": "8160",
+        "name": "Miến, hủ tiếu, phở"
+    },
+    {
+        "id": "8158",
+        "name": "Mì Ý, mì trứng"
+    },
+    {
+        "id": "7162",
+        "name": "Bánh gạo Hàn Quốc"
+    },
+    {
+        "id": "10798",
+        "name": "Kem, thực phẩm đông mát"
+    },
+    {
+        "id": "10778",
+        "name": "Bánh bao, bánh mì, pizza"
+    },
+    {
+        "id": "7618",
+        "name": "Xúc xích, lạp xưởng tươi"
+    },
+    {
+        "id": "7169",
+        "name": "Chả lụa, thịt nguội"
+    },
+    {
+        "id": "7171",
+        "name": "Chả giò, chả ram"
+    },
+    {
+        "id": "7170",
+        "name": "Cá viên, bò viên"
+    },
+    {
+        "id": "7258",
+        "name": "Mandu, há cảo, sủi cảo"
+    },
+    {
+        "id": "8400",
+        "name": "Thịt, cá đông lạnh"
+    },
+    {
+        "id": "7259",
+        "name": "Làm sẵn, ăn liền"
+    },
+    {
+        "id": "8791",
+        "name": "Sơ chế, tẩm ướp"
+    },
+    {
+        "id": "12538",
+        "name": "Nước lẩu, viên thả lẩu"
+    },
+    {
+        "id": "7558",
+        "name": "Sữa chua ăn"
+    },
+    {
+        "id": "7599",
+        "name": "Bơ sữa, phô mai"
+    },
+    {
+        "id": "7598",
+        "name": "Sữa chua uống"
+    },
+    {
+        "id": "7461",
+        "name": "Đậu hũ, tàu hũ"
+    },
+    {
+        "id": "7459",
+        "name": "Kim chi, đồ chua"
+    },
+    {
+        "id": "7460",
+        "name": "Bánh flan, thạch, chè"
+    },
+    {
+        "id": "7172",
+        "name": "Rau củ đông lạnh"
+    },
+    {
+        "id": "7149",
+        "name": "Gạo, bột, đồ khô"
+    },
+    {
+        "id": "2513",
+        "name": "Gạo các loại"
+    },
+    {
+        "id": "3507",
+        "name": "Xúc xích"
+    },
+    {
+        "id": "3237",
+        "name": "Cá hộp"
+    },
+    {
+        "id": "8638",
+        "name": "Đồ chay ăn liền"
+    },
+    {
+        "id": "3238",
+        "name": "Heo, bò, pate hộp"
+    },
+    {
+        "id": "3525",
+        "name": "Tương, chao các loại"
+    },
+    {
+        "id": "8645",
+        "name": "Gia vị chay"
+    },
+    {
+        "id": "7082",
+        "name": "Đậu hũ, đồ chay khác"
+    },
+    {
+        "id": "2388",
+        "name": "Bột các loại"
+    },
+    {
+        "id": "3235",
+        "name": "Đậu, nấm, đồ khô"
+    },
+    {
+        "id": "7083",
+        "name": "Rong biển các loại"
+    },
+    {
+        "id": "3506",
+        "name": "Lạp xưởng"
+    },
+    {
+        "id": "8285",
+        "name": "Cá mắm, dưa mắm"
+    },
+    {
+        "id": "3234",
+        "name": "Bánh phồng, bánh đa"
+    },
+    {
+        "id": "3233",
+        "name": "Bánh tráng các loại"
+    },
+    {
+        "id": "7086",
+        "name": "Nước cốt dừa lon"
+    },
+    {
+        "id": "7220",
+        "name": "Rau củ, trái cây hộp"
+    },
+    {
+        "id": "2903",
+        "name": "Ngũ cốc, yến mạch"
+    },
+    {
+        "id": "2488",
+        "name": "Bia, nước giải khát"
+    },
+    {
+        "id": "2282",
+        "name": "Bia, nước có cồn"
+    },
+    {
+        "id": "9498",
+        "name": "Rượu"
+    },
+    {
+        "id": "3265",
+        "name": "Nước ép trái cây"
+    },
+    {
+        "id": "3226",
+        "name": "Nước tăng lực, bù khoáng"
+    },
+    {
+        "id": "2443",
+        "name": "Nước ngọt"
+    },
+    {
+        "id": "8938",
+        "name": "Nước trà"
+    },
+    {
+        "id": "2947",
+        "name": "Sữa trái cây, trà sữa"
+    },
+    {
+        "id": "7579",
+        "name": "Trái cây hộp, siro"
+    },
+    {
+        "id": "2563",
+        "name": "Nước suối"
+    },
+    {
+        "id": "2524",
+        "name": "Cà phê hoà tan"
+    },
+    {
+        "id": "2385",
+        "name": "Trà khô, túi lọc"
+    },
+    {
+        "id": "2883",
+        "name": "Cà phê pha phin"
+    },
+    {
+        "id": "8966",
+        "name": "Cà phê lon"
+    },
+    {
+        "id": "7068",
+        "name": "Mật ong, bột nghệ"
+    },
+    {
+        "id": "4585",
+        "name": "Nước yến, nước cốt gà"
+    },
+    {
+        "id": "7091",
+        "name": "Sữa các loại"
+    },
+    {
+        "id": "2386",
+        "name": "Sữa tươi"
+    },
+    {
+        "id": "2945",
+        "name": "Sữa ca cao, lúa mạch"
+    },
+    {
+        "id": "2944",
+        "name": "Sữa chua uống liền"
+    },
+    {
+        "id": "2382",
+        "name": "Sữa bột"
+    },
+    {
+        "id": "2943",
+        "name": "Sữa hạt, sữa đậu"
+    },
+    {
+        "id": "2526",
+        "name": "Sữa đặc"
+    },
+    {
+        "id": "8286",
+        "name": "Ngũ cốc"
+    },
+    {
+        "id": "7558",
+        "name": "Sữa chua ăn"
+    },
+    {
+        "id": "7599",
+        "name": "Bơ sữa, phô mai"
+    },
+    {
+        "id": "7143",
+        "name": "Bánh kẹo các loại"
+    },
+    {
+        "id": "3357",
+        "name": "Bánh quy"
+    },
+    {
+        "id": "3361",
+        "name": "Bánh gạo"
+    },
+    {
+        "id": "3359",
+        "name": "Bánh quế"
+    },
+    {
+        "id": "3364",
+        "name": "Bánh snack, rong biển"
+    },
+    {
+        "id": "7622",
+        "name": "Bánh Chocopie"
+    },
+    {
+        "id": "3358",
+        "name": "Bánh bông lan"
+    },
+    {
+        "id": "9027",
+        "name": "Bánh tươi, Sandwich"
+    },
+    {
+        "id": "6597",
+        "name": "Socola"
+    },
+    {
+        "id": "3362",
+        "name": "Bánh que"
+    },
+    {
+        "id": "2687",
+        "name": "Kẹo cứng"
+    },
+    {
+        "id": "7199",
+        "name": "Kẹo dẻo, kẹo marshmallow"
+    },
+    {
+        "id": "4888",
+        "name": "Kẹo singum"
+    },
+    {
+        "id": "3365",
+        "name": "Trái cây sấy"
+    },
+    {
+        "id": "3487",
+        "name": "Hạt khô"
+    },
+    {
+        "id": "3368",
+        "name": "Rau câu, thạch dừa"
+    },
+    {
+        "id": "8318",
+        "name": "Khô chế biến sẵn"
+    },
+    {
+        "id": "3488",
+        "name": "Mứt trái cây"
+    },
+    {
+        "id": "8320",
+        "name": "Cơm cháy, bánh tráng"
+    },
+    {
+        "id": "3360",
+        "name": "Bánh xốp"
+    },
+    {
+        "id": "2903",
+        "name": "Ngũ cốc, yến mạch"
+    },
+    {
+        "id": "2515",
+        "name": "Chăm sóc cá nhân"
+    },
+    {
+        "id": "2483",
+        "name": "Dầu gội"
+    },
+    {
+        "id": "2484",
+        "name": "Dầu xả, kem ủ"
+    },
+    {
+        "id": "2444",
+        "name": "Sữa tắm"
+    },
+    {
+        "id": "2446",
+        "name": "Kem đánh răng, súc miệng"
+    },
+    {
+        "id": "2491",
+        "name": "Bàn chải đánh răng"
+    },
+    {
+        "id": "9081",
+        "name": "Giấy vệ sinh"
+    },
+    {
+        "id": "3004",
+        "name": "Khăn giấy"
+    },
+    {
+        "id": "3003",
+        "name": "Khăn ướt"
+    },
+    {
+        "id": "2516",
+        "name": "Băng vệ sinh"
+    },
+    {
+        "id": "2486",
+        "name": "Nước rửa tay"
+    },
+    {
+        "id": "2485",
+        "name": "Xà bông cục"
+    },
+    {
+        "id": "2507",
+        "name": "Lăn xịt khử mùi"
+    },
+    {
+        "id": "3485",
+        "name": "Dao, bọt cạo râu"
+    },
+    {
+        "id": "2519",
+        "name": "Bao cao su, gel bôi trơn"
+    },
+    {
+        "id": "8758",
+        "name": "Băng dán cá nhân"
+    },
+    {
+        "id": "5872",
+        "name": "Khẩu trang"
+    },
+    {
+        "id": "6562",
+        "name": "Kem dưỡng, chống nắng"
+    },
+    {
+        "id": "3425",
+        "name": "Tã cho người lớn"
+    },
+    {
+        "id": "7478",
+        "name": "Thuốc nhuộm tóc"
+    },
+    {
+        "id": "3124",
+        "name": "Tăm bông"
+    },
+    {
+        "id": "6642",
+        "name": "Nước hoa hồng, toner"
+    },
+    {
+        "id": "2517",
+        "name": "Dung dịch vệ sinh"
+    },
+    {
+        "id": "3708",
+        "name": "Tẩy trang"
+    },
+    {
+        "id": "6653",
+        "name": "Mặt nạ"
+    },
+    {
+        "id": "7700",
+        "name": "Quần lót một lần"
+    },
+    {
+        "id": "3104",
+        "name": "Sữa dưỡng thể"
+    },
+    {
+        "id": "3740",
+        "name": "Kem ủ, keo vuốt tóc"
+    },
+    {
+        "id": "5436",
+        "name": "Kem tẩy lông"
+    },
+    {
+        "id": "7658",
+        "name": "Kem, xịt côn trùng"
+    },
+    {
+        "id": "2504",
+        "name": "Sữa rửa mặt"
+    },
+    {
+        "id": "8679",
+        "name": "Sản phẩm cho mẹ và bé"
+    },
+    {
+        "id": "2427",
+        "name": "Tã bỉm cho bé"
+    },
+    {
+        "id": "8678",
+        "name": "Tắm gội cho bé"
+    },
+    {
+        "id": "3026",
+        "name": "Sữa tắm, dầu gội cho bé"
+    },
+    {
+        "id": "3023",
+        "name": "Nước xả cho bé"
+    },
+    {
+        "id": "3286",
+        "name": "Nước giặt cho bé"
+    },
+    {
+        "id": "3028",
+        "name": "Kem đánh răng bé"
+    },
+    {
+        "id": "3027",
+        "name": "Bàn chải cho bé"
+    },
+    {
+        "id": "8681",
+        "name": "Khẩu trang, tăm bông"
+    },
+    {
+        "id": "3063",
+        "name": "Phấn thơm, dưỡng ẩm"
+    },
+    {
+        "id": "8683",
+        "name": "Bình sữa, núm vú"
+    },
+    {
+        "id": "9943",
+        "name": "Đồ dùng cho bé"
+    },
+    {
+        "id": "7160",
+        "name": "Vệ sinh nhà cửa"
+    },
+    {
+        "id": "2464",
+        "name": "Nước giặt"
+    },
+    {
+        "id": "2465",
+        "name": "Nước xả"
+    },
+    {
+        "id": "2463",
+        "name": "Bột giặt"
+    },
+    {
+        "id": "2387",
+        "name": "Nước rửa chén"
+    },
+    {
+        "id": "2510",
+        "name": "Nước lau nhà"
+    },
+    {
+        "id": "2511",
+        "name": "Tẩy rửa nhà tắm"
+    },
+    {
+        "id": "2530",
+        "name": "Bình xịt côn trùng"
+    },
+    {
+        "id": "3345",
+        "name": "Xịt phòng, sáp thơm"
+    },
+    {
+        "id": "2787",
+        "name": "Lau kính, lau bếp"
+    },
+    {
+        "id": "2493",
+        "name": "Nước tẩy"
+    },
+    {
+        "id": "6553",
+        "name": "Túi đựng rác"
+    },
+    {
+        "id": "3185",
+        "name": "Đồ dùng gia đình"
+    },
+    {
+        "id": "6553",
+        "name": "Túi đựng rác"
+    },
+    {
+        "id": "4326",
+        "name": "Màng bọc, giấy thấm dầu"
+    },
+    {
+        "id": "4352",
+        "name": "Đồ dùng một lần"
+    },
+    {
+        "id": "4929",
+        "name": "Hộp đựng thực phẩm"
+    },
+    {
+        "id": "10338",
+        "name": "Bút bi, thước kẻ"
+    },
+    {
+        "id": "10340",
+        "name": "Băng keo, bao thư"
+    },
+    {
+        "id": "3728",
+        "name": "Khăn lau bếp"
+    },
+    {
+        "id": "3732",
+        "name": "Miếng rửa chén"
+    },
+    {
+        "id": "7694",
+        "name": "Nhấc lót nồi"
+    },
+    {
+        "id": "56",
+        "name": "Pin tiểu"
+    },
+    {
+        "id": "3727",
+        "name": "Khăn tắm, bông tắm"
+    },
+    {
+        "id": "3729",
+        "name": "Móc dán tường"
+    },
+    {
+        "id": "3188",
+        "name": "Bàn chải, thảm các loại"
+    },
+    {
+        "id": "3187",
+        "name": "Dao, kéo"
+    },
+    {
+        "id": "4347",
+        "name": "Đồ dùng khác"
+    },
+    {
+        "id": "LineBrand",
+        "name": "ƯU ĐÃI TỪ HÃNG"
+    },
+    {
+        "id": "14",
+        "name": "Unilever Việt Nam"
+    },
+    {
+        "id": "8",
+        "name": "PEPSICO"
+    },
+    {
+        "id": "16",
+        "name": "P&G"
+    },
+    {
+        "id": "30",
+        "name": "Colgate"
+    },
+    {
+        "id": "9",
+        "name": "COCA COLA"
+    },
+    {
+        "id": "TotalStore",
+        "name": "Xem 1.714 cửa hàng"
+    }
+]
